@@ -47,8 +47,4 @@ checkedMedia(mediaID:number){
     return false
   }
 }
-saveEdit(){
-  if(this.editCompanyForm.valid){
-  }
-}
 }
